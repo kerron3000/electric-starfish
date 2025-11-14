@@ -1,7 +1,9 @@
 ibm-watsonx-ai
-langchain
+langchain==0.1.17
 langchain-ibm
 langchain-community
 chromadb
 pypdf
 gradio
+pylint
+pytest
